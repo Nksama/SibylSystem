@@ -25,6 +25,7 @@ Here stuff you need to put in config.py or Environment variables:
 - ` Sibyl_approved_logs `: When approved it sends a message there (channel)
 - ` GBAN_MSG_LOGS `: Where to gban user, Set to None and it will send /gban in Sibyl_logs (Super group)
 - Start bot using `python3 -m Sibyl_System` on linux or `py -m Sibyl_System` for windows
+- set ENV = ANYTHING
 ------------
 
 ## Purpose and schematics
